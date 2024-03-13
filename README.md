@@ -1,6 +1,10 @@
+# KICKSharath
+
 # ImageResizer
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+
+here we can increase image size and quality. more features are going to added
 
 ## Development server
 
